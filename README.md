@@ -1,90 +1,65 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🌍 EcoTravel — Sustainable Travel Website  
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+EcoTravel is a multipage, fully responsive website designed to showcase **sustainable travel opportunities** with a professional feel. It was built as part of a **Web Development Final Project** to integrate HTML5, CSS3, and JavaScript while applying best practices in planning, design, and deployment.  
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+## 📖 Project Overview  
+EcoTravel promotes responsible tourism by providing information about eco-friendly travel packages, destinations, and services. The website is **structured for a real-world use case**, with attention to accessibility, responsiveness, and SEO optimization.  
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🛠️ Features  
 
-Using your plan, begin building:
+### 🔹 General  
+- Semantic **HTML5 structure** for SEO & accessibility  
+- **Responsive CSS layout** with grid & flexbox  
+- Consistent **navigation & footer** across all pages  
+- Organized project structure (`/css`, `/js`, `/images`)  
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+### 🔹 Pages  
+- **Home** — Hero section, highlights of eco-travel  
+- **About** — Mission, vision, and team members  
+- **Services** — Sustainable packages, FAQ with styled collapsible cards  
+- **Destinations** — Featured eco-retreats (coast, forest, islands)  
+- **Contact** — Contact form (JS validation) & social links  
 
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+### 🔹 Interactivity  
+- **Mobile-friendly toggle menu**  
+- **Collapsible FAQs** styled like cards  
+- Smooth hover and animation effects  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
 
 ---
 
-## Deliverables
+## 🚀 Deployment  
 
-1. A GitHub repository containing:
+The website is deployed and accessible live here:  
+👉 **[EcoTravel Live Website](https://ecotravel-iota.vercel.app/)**  
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+(Replace with your actual GitHub Pages, Netlify, or Vercel link once deployed)  
 
 ---
 
-## Outcome
+## 📈 SEO & Accessibility  
+- Added **meta descriptions** for each page  
+- Semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`)  
+- Accessible color contrast and alt attributes for images  
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+---
+
+## 👨‍💻 Technologies Used  
+- **HTML5**  
+- **CSS3 (Flexbox + Grid + Animations)**  
+- **JavaScript (DOM interactivity, validation)**  
+
+---
+
+## 📬 Contact  
+Created by **Loren Deklerk**  
+For inquiries or collaboration: *lorendeklerk@gmail.com*  
+
+---
+
